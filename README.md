@@ -1,4 +1,4 @@
-# 🍏 BigBasket Redesign MVP — Team [Your Team Name]
+# 🍏 BigBasket Redesign MVP — Team KREED
 
 ## Overview
 This project is a fresh take on the BigBasket online grocery platform, built by first-year students at KIIT. Our goal: **make grocery shopping smoother, smarter, and more accessible for everyone**.  
