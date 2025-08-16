@@ -7,10 +7,10 @@ We focused on real user pain points—especially accessibility, easier search, a
 ---
 
 ## Team
-Indraneel
-Akshat
-Aadarsh
-Kesav
+- Indraneel
+- Akshat
+- Aadarsh
+- Kesav
 
 ---
 
