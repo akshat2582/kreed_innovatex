@@ -6,6 +6,15 @@ We focused on real user pain points—especially accessibility, easier search, a
 
 ---
 
+## Team
+Indraneel
+Akshat
+Aadarsh
+Kesav
+
+---
+
+
 ## 🚀 What Makes Our MVP Different
 - **Accessibility controls:** Font size toggle, high-contrast switch, and a new voice search—all visible right from the homepage!
 - **No more confusing categories:** Categories are front and center—no dropdown needed.
