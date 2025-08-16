@@ -1,16 +1,8 @@
 # 🍏 BigBasket Redesign MVP — Team [Your Team Name]
 
 ## Overview
-This project is a fresh take on the BigBasket online grocery platform, built by first-year students at [Your College/Hackathon]. Our goal: **make grocery shopping smoother, smarter, and more accessible for everyone**.  
+This project is a fresh take on the BigBasket online grocery platform, built by first-year students at KIIT. Our goal: **make grocery shopping smoother, smarter, and more accessible for everyone**.  
 We focused on real user pain points—especially accessibility, easier search, and cleaner navigation—based on our own research and the live BigBasket site!
-
----
-
-## 👩🏻‍💻 Team
-- [Member 1] — UI/UX & Accessibility
-- [Member 2] — Frontend/Design
-- [Member 3] — Backend/Integration
-- [Member 4] — Idea & Testing
 
 ---
 
@@ -66,13 +58,6 @@ So, we built features that would help real people (like our parents and friends!
 
 ---
 
-## ⚡ For Judges & Users
-
-- **Easy to test:** Just spin up with Replit or clone & run.
-- **No setup pain:** All data seeded, runs out-of-the box.
-- **MVP focus:** The core user journeys work—accessibility, product discovery, and cart.
-- **Look for:** Accessibility buttons (top-right), voice search icon, instant cart/product updates.
-
 ---
 
 ## 🌟 Tech in Use
@@ -96,5 +81,3 @@ We’re proud that our MVP is original, user-centric, and demo-ready for everyon
 _Ready for demo and feedback!_
 
 ---
-
-> For judges: See the feature list above, try toggling accessibility, and play with the basket!
